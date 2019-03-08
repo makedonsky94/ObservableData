@@ -22,7 +22,7 @@ class MutableFlexibleData<PrimaryType> extends FlexibleData<PrimaryType> {
     return data;
   }
 
-  void setValue(PrimaryType value) {
+  set value(PrimaryType value) {
     primaryValue = value;
     notifySubscribers();
     passValueToChain(primaryValue);

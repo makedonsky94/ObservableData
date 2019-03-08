@@ -1,4 +1,4 @@
-import 'package:meta/meta.dart';
+import 'package:flutter/foundation.dart';
 import 'package:observable_data/factory/observable_factory.dart';
 import 'package:observable_data/flexible_data/flexible_data.dart';
 import 'package:observable_data/types.dart';

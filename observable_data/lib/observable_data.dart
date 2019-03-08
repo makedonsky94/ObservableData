@@ -1,6 +1,5 @@
 library observable_data;
-
-import 'package:meta/meta.dart';
+import 'package:flutter/foundation.dart';
 import 'package:observable_data/types.dart';
 
 abstract class ObservableData<T> {
