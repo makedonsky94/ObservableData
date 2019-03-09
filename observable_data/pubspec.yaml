@@ -1,6 +1,6 @@
 name: observable_data
 description: A Reactive model that passes data through the chain of modifications
-version: 0.1.0
+version: 0.2.0
 author: Nevyantsev Alexandr <nevyantsev.alexandr@gmail.com>
 homepage: https://github.com/makedonsky94/ObservableData
 
