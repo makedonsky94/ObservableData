@@ -1,4 +1,4 @@
-import 'package:meta/meta.dart';
+import 'package:flutter/foundation.dart';
 import 'package:observable_data/observable_data.dart';
 import 'package:observable_data/types.dart';
 
